@@ -4,6 +4,9 @@
 ## Description
 A Web3 Dapp built using My first token deployed to the kovan test network. The token added TTN was assembled using a guide by Dapp University. 
 
+## Heroku App
+[deployed NFT web3 app](https://nft-web3app.herokuapp.com/)
+
 ## What was Learned
 - How to create a test network wallet and add ETH to the wallet using https://faucets.chain.link/
 - How to use connect a solidity smart contract deployed to the Rinkeby testnet too my front end react app
